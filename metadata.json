@@ -1,0 +1,7 @@
+{
+  "name": "Kisan Mitra - AI Crop Doctor & Precision Farm Advisory",
+  "description": "Comprehensive agricultural advisory platform with multi-factor early risk forecasting, official and extension worker dashboard with lab referrals, follow-up recovery monitoring with chemical resistance tracking, multimodal Gemini vision diagnosis, hyperlocal disease outbreak radar map, precision knapsack spray calculations, and CIBRC anti-counterfeit verification.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
